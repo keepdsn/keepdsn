@@ -18,6 +18,9 @@
   <a href="https://www.credly.com/badges/c293eb39-2317-40fb-ba7f-e1b4290e58d8/public_url">
     <img src="https://images.credly.com/size/220x220/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Badge 3"  width ="110"/>
   </a>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AWMV49QUN4.pdf">
+    <img src="images/SOC_1_Tryhackme.png" alt="Badge 4"  width ="110"/>
+  </a>
 </p>
 
 
