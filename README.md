@@ -10,13 +10,13 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/a9da9801-d640-4b9a-8f24-2df83ee41f21/public_url">
-    <img src="https://images.credly.com/size/220x220/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Badge 1" />
+    <img src="https://images.credly.com/size/220x220/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Badge 1" width ="110" />
   </a>
   <a href=https://www.credly.com/badges/e0d6423a-b0d8-4db4-953c-51ed5dea587f/public_url">
-    <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Badge 2" />
+    <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Badge 2" width ="110" />
   </a>
   <a href="https://www.credly.com/badges/c293eb39-2317-40fb-ba7f-e1b4290e58d8/public_url">
-    <img src="https://images.credly.com/size/220x220/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Badge 3" />
+    <img src="https://images.credly.com/size/220x220/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Badge 3"  width ="110"/>
   </a>
 </p>
 
