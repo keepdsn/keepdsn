@@ -1,4 +1,4 @@
-# 👨‍💻 Anton Ivanov | Cybersecurity Learner
+# 👨‍💻 Anton Ivanov | SOC analyst
 
 📍 Based in: Paradise, Newfoundland and Labrador, Canada  
 📚 Transitioning into cybersecurity with hands-on training and real-world labs  
@@ -23,18 +23,16 @@
   </a>
 </p>
 
-
-
 ---
 
 ## 🧠 Skills & Tools
 
-- 🔎 SIEM: Splunk (in progress), ELK Stack (upcoming)
+- 🔎 SIEM: Splunk, ELK Stack (in progress)
 - 🐍 Python (automation, log parsing)
 - 🛠 Digital Forensics: Redline, Volatility, Wireshark
 - ☁️ Cloud Security: AWS (planned)
 - 📊 MITRE ATT&CK, Threat Intelligence
-- 🧪 Labs: TryHackMe (SOC Level 1, Cybersecurity 101), BTLO
+- 🧪 Labs: TryHackMe (SOC Level 1, Cybersecurity 101), BTLO, Cyberdefenders
 
 ---
 
