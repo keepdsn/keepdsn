@@ -24,6 +24,9 @@
   <a href="https://www.credly.com/badges/6de3940b-c6af-413d-90c2-ef89b0a98a1d/public_url">
     <img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Badge 5"  width ="100"/>
     </a>
+  <a href="https://www.credly.com/badges/6b40b7b7-13f0-4858-a063-182892e2eeea/public_url">
+    <img src="https://images.credly.com/size/220x220/images/49c099bd-8542-4f48-8c03-f21799dcaf51/image.png" alt="Badge 5"  width ="100"/>
+    </a>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AWMV49QUN4.pdf">
     <img src="images/SOC_1_Tryhackme.png" alt="Badge 6"  width ="100"/>
   </a>
